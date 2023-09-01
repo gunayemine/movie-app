@@ -29,6 +29,6 @@ Footer: Uygulama footer'ı.
 
 
 API Kullanımı
-OMDB API kullanılmıştır.
+OMDB API kullanılmıştır. https://www.omdbapi.com/ 
 
 
